@@ -7,7 +7,6 @@
  *  Parallel edges are disallowed; self-loops are allowd.
  *  
  ******************************************************************************/
-
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
